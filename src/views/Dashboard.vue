@@ -8,16 +8,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <router-link class="nav-link" to="/">回到前台</router-link> |
+          <router-link class="nav-link" to="/">回到前台</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/admin/products">後台產品列表</router-link> |
+          <router-link class="nav-link" to="/admin/products">後台產品列表</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/admin/orders">後台訂單</router-link> |
+          <router-link class="nav-link" to="/admin/orders">後台訂單</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/admin/coupon">優惠券</router-link> |
+          <router-link class="nav-link" to="/admin/coupon">優惠券</router-link>
         </li>
       </ul>
     </div>
