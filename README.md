@@ -1,4 +1,6 @@
-# test
+# Vue Router and Vue CLI
+
+首頁連結:　https://70928manson.github.io/vue-VueCLI-and-Router/dist/index.html#/
 
 ## Project setup
 ```
